@@ -5,7 +5,7 @@ A binary classification neural network used to predict post-operative life expec
 
 The data was collected retrospectively at Wroclaw Thoracic Surgery Centre for patients who underwent major lung resections for primary lung cancer,  class 0 - death within one year after surgery, class 1 - survival.[1].
 
-One hot encoding of the categorical features was implemented with the pandas cat.codes class. All features were also standardised via sklearn's StandardScaler class. The categorical labels were also numerically converted using sklearn's Labelencoder class.
+One hot encoding of the categorical features was implemented with the pandas cat.codes class. All features were standardised via sklearn's StandardScaler class. The categorical labels were also numerically converted using sklearn's Labelencoder class.
 
 ## Neural Network Topology and Results Summary
 
