@@ -1,7 +1,7 @@
 # Post-op-Lung-Cancer-Surgery-Mortality-Predictor
 
 ## Motivation
-A binary classification neural network used to predict post-operative life expectancy in the lung cancer patients
+A binary classification neural network used to predict post-operative life expectancy in lung cancer patients
 
 The data was collected retrospectively at Wroclaw Thoracic Surgery Centre for patients who underwent major lung resections for primary lung cancer,  class 0 - death within one year after surgery, class 1 - survival.[1].
 
